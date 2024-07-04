@@ -1,0 +1,38 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "email": "gustavo@email.com",
+      "nome": "Gustavo",
+      "senha": "123"
+    },
+    {
+      "id": "2",
+      "email": "1",
+      "nome": "Gustavoa",
+      "senha": "1",
+      "endereco": "rua 1",
+      "telefone": "(41)11111-1111"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "110b",
+      "imagem": 5,
+      "texto": "Camisa bonita",
+      "preco": 80
+    },
+    {
+      "id": "298e",
+      "imagem": 6,
+      "texto": "Cadeira de trabalho",
+      "preco": 150
+    },
+    {
+      "id": "3d1e",
+      "imagem": 3,
+      "texto": "Tenis bacana",
+      "preco": 100
+    }
+  ]
+}
